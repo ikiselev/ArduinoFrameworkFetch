@@ -1,3 +1,5 @@
 Arduino Framework Fetch
 ===================
-For install type sh Install.sh
+	git clone https://github.com/ikiselev/ArduinoFrameworkFetch.git
+	cd ArduinoFrameworkFetch
+	sh Install.sh
